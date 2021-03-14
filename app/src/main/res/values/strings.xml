@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">conversormoeda</string>
+    <string name="qual_o_valor_em_r">Qual o valor em R$ ?</string>
+    <string name="dolar">edit_dolar</string>
+    <string name="euro">edit_euro</string>
+    <string name="informe_valor" />
+</resources>
